@@ -53,6 +53,7 @@ A new table, 'HappinessResults' is to be created in the 'SouthAmericaHappiness_R
 
 
 # Load
+![diagram](Images/Diagram_Load.png)
 ## 6 Create Analysis Database
 Create a new MySQL database named 'SouthAmericaHappiness_Analysis' that is to contain the datasets used for the analysis.
 
