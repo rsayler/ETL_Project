@@ -1,5 +1,11 @@
 # ETL_Project
 
+## MEMBERS:
+
+Scott McEachern   
+Robert Sayler   
+Connie Hu  
+
 # Project Proposal 
 
 We will be analyzing World Happiness rankings and their relationship to gender parity indicator for school enrollment. The primary focus will be on South America, which has a significant range in happiness rankings and has a greater presence of females in school than average. 
@@ -39,11 +45,7 @@ Influence of Family: The extent to which Family contributes to the calculation o
 Influence of Freedom: The extent to which Freedom contributed to the calculation of the Happiness Score.
 
 
-## MEMBERS:
-
-Scott McEachern   
-Robert Sayler   
-Connie Hu   
+ 
 
 
 # Extract
