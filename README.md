@@ -32,17 +32,17 @@ SouthAmericaHappiness_Analysis
 A new MySql database with a table named HappinessResults that will contain information on South American countries. The areas we explored included gender parity in school enrollment, the happiness rank, happiness score, influence of the economy on happiness, influence of family on happiness, and influence of freedom on happiness. This will allow someone to compare happiness scores and ranks with other factors that might be contributing to populations overall happiness. 
 
 ### Description of the columns
-Indicator: Gender parity index for gross enrollment ratio in primary and secondary education is the ratio of girls to boys enrolled at primary and secondary levels in public and private schools. A GPI of 1 indicates parity between the sexes; a GPI that varies between 0 and 1 typically means a disparity in favour of males; whereas a GPI greater than 1 indicates a disparity in favour of females.
+__Indicator__: Gender parity index for gross enrollment ratio in primary and secondary education is the ratio of girls to boys enrolled at primary and secondary levels in public and private schools. A GPI of 1 indicates parity between the sexes; a GPI that varies between 0 and 1 typically means a disparity in favour of males; whereas a GPI greater than 1 indicates a disparity in favour of females.
 
-Happiness Rank: This is the countries rank based on The World Happiness Report, which ranked 155 countries by their level of happiness. 
+__Happiness Rank__: This is the countries rank based on The World Happiness Report, which ranked 155 countries by their level of happiness. 
 
-Happiness Score: The scores are based on answers to the main life evaluation question asked in the poll. This question, known as the Cantril ladder, asks respondents to think of a ladder with the best possible life for them being a 10 and the worst possible life being a 0 and to rate their own current lives on that scale. The scores are from nationally representative samples for the years 2013-2016 and use the Gallup weights to make the estimates representative. 
+__Happiness Score__: The scores are based on answers to the main life evaluation question asked in the poll. This question, known as the Cantril ladder, asks respondents to think of a ladder with the best possible life for them being a 10 and the worst possible life being a 0 and to rate their own current lives on that scale. The scores are from nationally representative samples for the years 2013-2016 and use the Gallup weights to make the estimates representative. 
 
-Influence of Economy: This is an estimation of the impact that the county's economic production influences residence happiness. 
+__Influence of Economy__: This is an estimation of the impact that the county's economic production influences residence happiness. 
 
-Influence of Family: The extent to which Family contributes to the calculation of the Happiness Score.
+__Influence of Family__: The extent to which Family contributes to the calculation of the Happiness Score.
 
-Influence of Freedom: The extent to which Freedom contributed to the calculation of the Happiness Score.
+__Influence of Freedom__: The extent to which Freedom contributed to the calculation of the Happiness Score.
 
 
  
