@@ -32,7 +32,8 @@ SouthAmericaHappiness_Analysis
 A new MySql database with a table named HappinessResults that will contain information on South American countries. The areas we explored included gender parity in school enrollment, the happiness rank, happiness score, influence of the economy on happiness, influence of family on happiness, and influence of freedom on happiness. This will allow someone to compare happiness scores and ranks with other factors that might be contributing to populations overall happiness. 
 
 ### Description of the columns
-__Country__: Name of the country.
+__Country__: Name of the country.  
+  
 __Indicator__: Gender parity index for gross enrollment ratio in primary and secondary education is the ratio of girls to boys enrolled at primary and secondary levels in public and private schools. A GPI of 1 indicates parity between the sexes; a GPI that varies between 0 and 1 typically means a disparity in favour of males; whereas a GPI greater than 1 indicates a disparity in favour of females.
 
 __Happiness Rank__: This is the countries rank based on The World Happiness Report, which ranked 155 countries by their level of happiness. 
