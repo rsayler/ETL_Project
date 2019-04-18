@@ -38,6 +38,7 @@ The 'StudyCountry' table is created within the 'SouthAmericaHappiness_Raw' MySQL
   
 
 # Transform
+![diagram](Images/Diagram_Transform.png)
 ## 5 Transform: World Bank Data
 A new table within the 'SouthAmericaHappiness_Raw' MySQL database named 'WorldBank_GenderParityIndex_2016' that contains the World Bank data for just the year 2016.  Then within this new table, the names have the countries are updated to ensure it matches the other data sources.
 
