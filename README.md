@@ -7,3 +7,4 @@ Connie Hu
 Scott
 
 
+![diagram](Images/Diagram_Extract.png)
