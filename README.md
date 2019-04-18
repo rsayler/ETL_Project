@@ -8,17 +8,17 @@ Connie Hu
 
 # Project Proposal 
 
-We will be analyzing World Happiness rankings and their relationship to gender parity indicator for school enrollment. The primary focus will be on South America, which has a significant range in happiness rankings and has a greater presence of females in school than average. 
+We will be analyzing World Happiness rankings from 2016 and their relationship to gender parity indicator for school enrollment. The primary focus will be on South America, which has a significant range in happiness rankings and has a greater presence of females in school than average. 
 
 ## Sources
-### Kaggle
-https://www.kaggle.com/unsdsn/world-happiness
-Download the CSV File 2016
-Focus on Latin America and Caribbean
+### Kaggle CSV File
+Happiness Rankings  
+https://www.kaggle.com/unsdsn/world-happines  
+
 
 
 ### World Bank API Call
-School Enrollment Index
+School Enrollment Index  
 https://data.worldbank.org/indicator/SE.ENR.PRSC.FM.ZS?view=chart
 
 
