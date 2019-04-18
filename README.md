@@ -49,7 +49,7 @@ __Influence of Freedom__: The extent to which Freedom contributed to the calcula
 
 
 # Extract
-Outlined below are the steps used to extract the datasets from the different sources.  The files used in this process are located within the ![Solution folder in the GitHub project](https://github.com/rsayler/ETL_Project/tree/master/Solution).  Figure 1 provides an overview of this process.  
+Outlined below are the steps used to extract the datasets from the different sources.  The files used in this process are located within the [Solution folder in the GitHub project](https://github.com/rsayler/ETL_Project/tree/master/Solution).  Figure 1 provides an overview of this process.  
   
 __Figure 1:__ Overview of Extractor
 
