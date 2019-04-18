@@ -1,4 +1,4 @@
-# ETL_Project
+# ETL Project: Happiness in South America
 
 ## MEMBERS:
 
